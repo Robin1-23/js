@@ -1,0 +1,43 @@
+
+
+// Primitive
+
+// 7 types: String, Number ,Boolean ,null ,undefined ,symbol,BigInt
+
+
+// let score=100
+// let isloggedin=false
+// let temp=null
+// let user;    // undefined
+
+// let id=Symbol('123')
+// let anotherId=Symbol('123')
+// console.log(id===anotherId)  // false
+// let name="Robin"
+
+// let bignum=22555698455n
+
+
+// Non-Primitive(Reference)
+
+// Arrays,Objects,Functons
+
+
+// let heroes=["dfs","fnsdk","dknvs"]
+
+let obj={
+    name:"robin",
+    age:25
+
+}
+
+let myfunc=function(){
+    console.log("Hello")
+}
+
+
+// console.log(typeof obj);        //object
+// console.log(typeof myfunc);    // function
+
+
+
